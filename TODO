@@ -1,0 +1,8 @@
+- Fill out TODO
+- Fill in documentation fields on functions
+- Document the dang code anyhow
+- Fill in the README
+- Split up the sieve into the components
+- Break out and subclass the step functions
+- Convert to use namedtuples instead of dictionaries.
+- Pre-compile steps (hash the signature for trust? blockchain?!)
